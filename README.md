@@ -1,6 +1,6 @@
 # OOP Lab Project
 
-This repository contains an Object-Oriented Programming (OOP) project implemented in Python, created as part of an ITI lab assignment. The project simulates a system with `Person`, `Car`, `Employee`, and `Office` classes, focusing on an employee's daily routine, including driving to work and managing office interactions. The implementation follows the lab requirements from pages 5–11, with a custom fuel consumption model (1 unit per km) and a lateness check based on a driving velocity of 60 km/h.
+This repository contains an Object-Oriented Programming (OOP) project implemented in Python, created as part of an ITI lab assignment. The project simulates a system with `Person`, `Car`, `Employee`, and `Office` classes, focusing on an employee's daily routine, including driving to work and managing office interactions, with a custom fuel consumption model (1 unit per km) and a lateness check based on a driving velocity of 60 km/h.
 
 ## Project Overview
 
@@ -32,9 +32,3 @@ The project models an employee (e.g., Khaled) who:
 
 - Python 3.x
 - No external libraries required (uses standard Python).
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/khaled0x01/Python-Projects.git
