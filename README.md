@@ -1,4 +1,4 @@
-#OOP Lab Project
+OOP Lab Project
 This repository contains an Object-Oriented Programming (OOP) project implemented in Python, created as part of an ITI lab assignment. The project simulates a system with Person, Car, Employee, and Office classes, focusing on an employee's daily routine, including driving to work and managing office interactions.
 
 Features
